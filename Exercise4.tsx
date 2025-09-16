@@ -48,7 +48,7 @@ const Exercise4 = () => {
           />
 
           <TouchableOpacity style={styles.button} onPress={handleSignIn}>
-            <Text style={styles.buttonText}>Sign In</Text>
+            <Text style={styles.buttonText}>Hallo</Text>
           </TouchableOpacity>
         </View>
       </ScrollView>

@@ -1,7 +1,8 @@
-// App.tsx
 import React from 'react';
-import Exercise4 from './Exercise4';
+import Exercise5 from './Exercise5';
 
-export default function App() {
-  return <Exercise4 />;
-}
+const App = () => {
+  return <Exercise5 />;
+};
+
+export default App;
