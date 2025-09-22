@@ -1,8 +1,8 @@
 import React from 'react';
-import Exercise5 from './Exercise5';
+import Exercise6 from './Exercise6';
 
 const App = () => {
-  return <Exercise5 />;
+  return <Exercise6 />;
 };
 
 export default App;
